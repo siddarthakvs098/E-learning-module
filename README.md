@@ -7,7 +7,7 @@ An application for first year students of Vasavi College of Engineering to learn
 Clone it:
 
 ```
-$ git clone 
+$ git clone https://github.com/siddarthakvs098/E-learning-module.git
 ```
 
 Go into the project directory and run the command:
